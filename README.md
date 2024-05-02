@@ -1,7 +1,7 @@
 ### Olá!! ✌🏿🐭
 
 - 🌱 Estudando Analise e Desenvolvimento de Sistemas - IFSC
-- 👯 I’m looking to collaborate my first job
+- 👯 I’m looking for my first job
 - 📫 Contate-me no email: ricardo.paivalmeida@gmail.com
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: grande fã de attack on titan
