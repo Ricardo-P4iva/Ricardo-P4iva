@@ -6,6 +6,6 @@
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: grande fã de attack on titan
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-P4iva)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricardo-P4iva&show_icons=true&theme=radical)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-P4iva)](https://github.com/anuraghazra/github-readme-stats)
 
 
